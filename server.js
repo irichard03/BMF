@@ -15,7 +15,7 @@ app.get('/Duck', function(request, response) {
     response.send('Webbed fisher fowl,\nslipstreaming the lillypads,\nmuck is your supper.');
 });
 
-app.get('/git aSamurai', function(request, response) {
+app.get('/Samurai', function(request, response) {
     response.send('Cherryblossom tree,\nhappily I bleed in shade,\nmy last stroke was strong.');
 });
 //express has a listen method that allows you to assign
